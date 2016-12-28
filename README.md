@@ -20,11 +20,11 @@ Discord.js install : `npm install discord.js --save`  
 
 ## Example Usage
 ```Markdown
-1. !regler - giver et link til kanalen hvor reglerne står
-2. !yt - link til kjaspers youtube
-3. !twitter - link til Kjaspers twitter
-4. !instagram - link til Kjaspers instagram
-5. !snap - link til Kjaspers snapchat
+1. !regler - Giver et link til kanalen hvor reglerne står
+2. !yt - Link til Kjaspers Youtube
+3. !twitter - Link til Kjaspers Twitter
+4. !instagram - Link til Kjaspers Snapchat
+5. !snap - Link til Kjaspers Instagram
 ```
 
 ## Links
