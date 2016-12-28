@@ -14,8 +14,8 @@ It is build only for use on the Discord server Kjasper (ID: 258970605972488204).
 **Node.js 6.0.0 or newer is required.**  
 **Discord.js 10.0.1 or newer is required.**
 
-Node.js install : `sudo apt-get install nodejs`
-npm (Node.js package manager) : `sudo apt-get install npm`
+Node.js install : `sudo apt-get install nodejs`  
+npm (Node.js package manager) : `sudo apt-get install npm`  
 Discord.js install : `npm install discord.js --save`  
 
 ## Example Usage
