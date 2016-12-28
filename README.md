@@ -12,11 +12,26 @@ It is build only for use on the Discord server Kjasper (ID: 258970605972488204).
 ## Installation
 
 **Node.js 6.0.0 or newer is required.**  
-**Discord.js 10.0.1 or newer is required.**
+**Discord.js 10.0.1 or newer is required.**  
+**PM2 2.1.6 or newer is required.**  
 
 Node.js install : `sudo apt-get install nodejs`  
+
 npm (Node.js package manager) : `sudo apt-get install npm`  
-Discord.js install : `npm install discord.js --save`  
+
+Discord.js install : `npm install discord.js --save`  
+
+PM2 install : `npm install pm2 -g`  
+
+## Start Bot
+
+**Start with no name.** 
+
+`sudo pm2 start index.js`
+
+**Start with name.** 
+
+`sudo pm2 start index.js --name KjasperBot`
 
 ## Example Usage
 ```Markdown
@@ -33,6 +48,7 @@ Discord.js install : `npm install discord.js --save`  
 * [Discord.js server](https://discord.gg/bRCvFy9)
 * [Discord API server](https://discord.gg/rV4BwdK)
 * [Documentation (Discord.js)](http://discord.js.org/#!/docs)
+* [PM2 Github](https://github.com/Unitech/pm2)
 * [GitHub](https://github.com/donsidro/Kjasper-Bot)
 
 ## Thanks
