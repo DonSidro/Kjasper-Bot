@@ -1,3 +1,5 @@
+# Kjasper Bot
+
 <div align="center">
   <p>
     <a href="https://discord.gg/8rjkR"><img src="https://discordapp.com/api/guilds/258970605972488204/embed.png" alt="Discord Server" /></a>
