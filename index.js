@@ -12,7 +12,7 @@ var json_file;
 bot.on('ready', () => {
     print('Botten er nu klar!')
 })
-
+ 
 //Lille command til admins og mods så de kan skifte intervalet på hvor tit der checkes om per streamer (sekunder)
 bot.on("message", (message)=>{
     if(message.author.bot) return;
